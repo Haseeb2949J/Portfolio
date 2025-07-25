@@ -6,8 +6,7 @@ This site showcases my projects, skills, and contact information in a clean and 
 ## 🔗 Live Site
 
 You can view the live portfolio here:  
-<a href="https://haseeb2949j.github.io/Portfolio/" target="_blank">https://haseeb2949j.github.io/Portfolio/</a>
-
+[View](https://haseeb2949j.github.io/Portfolio/)
 ## 🛠️ Built With
 
 - HTML5
